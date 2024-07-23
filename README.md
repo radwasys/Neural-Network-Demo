@@ -13,6 +13,8 @@
 	5- Create output neuron
 		*Through matrix multplication and addition
 
-### Backward Propagattion:
-
+### Backward Propagation:
+	1- Create cost function
+	2- Determine the cost gradient
+	3- Implement the Stochastic Gradient Descent (SGD)
 
